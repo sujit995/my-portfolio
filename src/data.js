@@ -18,7 +18,7 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
+          heading: 'Codepen Editor',
           description: 'This is a real-time editor where the user can write the code using HTML, CSS, and JS and can see the output below.',
           animationDelay: '700',
           buttonLink: 'https://sujit-codepen-editor.netlify.app',
