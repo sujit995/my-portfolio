@@ -25,11 +25,9 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
-          animationDelay: '900',
-          buttonLink: 'https://codemmit.tech',
+          heading: 'Netflix-clone2.0',
+          description:'User can login to watch their favroite show and added to the wishlist to watch later.',
+          buttonLink: 'https://netflix-clone2-0-five.vercel.app/auth',
           buttonText: 'CHECK OUT',
         },
         {

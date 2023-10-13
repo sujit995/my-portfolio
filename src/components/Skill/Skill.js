@@ -14,15 +14,13 @@ const Skill = () => {
     // If 3D Text Sphere is not showing up after deployment remove the return (i.e, return() =>{}) function from below code
     return () => {
       const texts = [
-        'HTML',
-        'CSS',
-        'SASS',
+        'HTML5',
+        'CSS3',
         'Tailwind CSS',
         'JavaScript',
         'React',
         'Nextjs',
         'NodeJS',
-        'Wordpress',
         'ES6',
         'GIT',
         'GITHUB',
@@ -110,12 +108,7 @@ const Skill = () => {
                     </li>
                     <li>
                       <span>
-                        <b>Preprocessors:</b> SASS
-                      </span>
-                    </li>
-                    <li>
-                      <span>
-                        <b>Frameworks:</b> Tailwind CSS, Bootstrap
+                        Tailwind CSS, Bootstrap
                       </span>
                     </li>
                   </ul>
@@ -141,14 +134,6 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>GIT</span>
-                    </li>
-                  </ul>
-                </div>
-                <div className="skill__details">
-                  <h4>E-Commerce</h4>
-                  <ul>
-                    <li>
-                      <span>Wordpress</span>
                     </li>
                   </ul>
                 </div>

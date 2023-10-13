@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 import '../../styles/Hero/Hero.scss';
 
 import Myself from '../../assets/images/moon.png';
-import CV from '../../assets/files/Sujit_Mishra_cv.pdf';
+import CV from '../../assets/files/SujitM_resume.pdf';
 
 const Hero = () => {
   useEffect(() => {
