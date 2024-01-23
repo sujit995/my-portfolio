@@ -25,6 +25,14 @@ const ProjectCard = (props) => {
               >
                 {props.cardContent.buttonText}
               </a>
+              <a
+                href={props.cardContent.buttonCode}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {props.cardContent.button}
+              </a>
+              <img src={props.cardContent.imageUrl} style={{height: "100%", maxHeight: "200px", width: "100%", maxWidth: "400px", marginTop: "10px", borderRadius: "5px"}}  alt="screenshot"/>
             </div>
           </Collapsible>
         </div>
